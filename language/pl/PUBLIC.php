@@ -16,7 +16,7 @@
  */
 
 // Site Title
-$LNG['siteTitleIndex']				= 'Indeks';
+$LNG['siteTitleIndex']				= 'Index';
 $LNG['siteTitleRegister']			= 'Rejestracja';
 $LNG['siteTitleScreens']			= 'Screenshots';
 $LNG['siteTitleBanList']			= 'Pręgierz';
@@ -28,7 +28,7 @@ $LNG['siteTitleLostPassword']		= 'Reset hasła';
 
 // Menu
 $LNG['forum']						= 'Forum';
-$LNG['menu_index']					= 'Indeks';
+$LNG['menu_index']					= 'Index';
 $LNG['menu_news']					= 'News';
 $LNG['menu_rules']					= 'Regulamin';
 $LNG['menu_banlist']				= 'Pręgierz';
@@ -37,13 +37,13 @@ $LNG['menu_disclamer']				= 'Kontakt';
 $LNG['menu_register']				= 'Rejestracja';
 
 // Universe select
-$LNG['chose_a_uni']					= 'Wybór Universum';
-$LNG['universe']					= 'Universum';
+$LNG['chose_a_uni']					= 'Wybór Uniwersum';
+$LNG['universe']					= 'Uniwersum';
 $LNG['uni_closed']					= ' (Zamknięte)';
 
 // Button
 $LNG['buttonRegister']				= 'Zarejestruj się!';
-$LNG['buttonScreenshot']			= 'Screenshots';
+$LNG['buttonScreenshot']			= 'Screenshoty';
 $LNG['buttonLostPassword']			= 'Reset hasła';
 $LNG['buttonCanel']					= 'Wyczyść';
 
