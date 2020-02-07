@@ -23,5 +23,5 @@ $LNG['ub_defenses']		= 'Obrona';
 
 $LNG['ub_fights']		= 'Walki';
 $LNG['ub_quote']		= 'Ilość';
-$LNG['ub_rank']			= 'Rank';
+$LNG['ub_rank']			= 'Ranking';
 // Translated into Polish by Sirgomo . All rights reversed (C) 2012
